@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import telebot
 
-token = "2102479738:AAEI9IQZKWTl18tAS1Aa8hqKA3U-X749WqA"
+token = ""
 bot = telebot.TeleBot(token)
 
 
